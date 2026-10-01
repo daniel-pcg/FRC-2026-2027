@@ -8,4 +8,4 @@ Aquí se guardan los ejercicios que se hacen en clase, no el código de competen
 
 - Cada estudiante trabaja en su propia rama: `sesionN/<nombre>`.
 - Los commits siguen el formato convencional (`feat:`, `fix:`, `docs:`, `chore:`).
-- Código, commits e identificadores van en inglés; la documentación, en español.
+- Código, commits e identificadores van en inglés.
